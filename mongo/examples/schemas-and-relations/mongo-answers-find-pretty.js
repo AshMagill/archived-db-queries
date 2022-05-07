@@ -1,0 +1,1 @@
+db.answers.find().pretty();

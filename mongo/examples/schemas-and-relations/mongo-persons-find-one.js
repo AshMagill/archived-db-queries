@@ -1,0 +1,1 @@
+db.persons.findOne();
